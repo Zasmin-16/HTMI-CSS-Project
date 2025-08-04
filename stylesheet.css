@@ -28,7 +28,7 @@ select{
 .logo {
     height: 50px;
     background-size: cover;
-    background-image: url(/image/amazon_logo.png);
+    background-image: url(image/amazon_logo.png);
 }
 
 .border{
@@ -146,7 +146,7 @@ span{
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    background-image: url("/image/hero_image.jpg");
+    background-image: url("image/hero_image.jpg");
     background-size: cover ;
     height: 350px;
 }
@@ -186,7 +186,7 @@ span{
 
 .first_img{
     height: 300px;
-    background-image: url("/image/box1_image.jpg");
+    background-image: url("image/box1_image.jpg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -198,7 +198,7 @@ span{
 
 .second_img{
     height: 300px;
-    background-image: url("/image/box2_image.jpg");
+    background-image: url("image/box2_image.jpg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -206,7 +206,7 @@ span{
 
 .third_img{
     height: 300px;
-    background-image: url("/image/box3_image.jpg");
+    background-image: url("image/box3_image.jpg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -214,7 +214,7 @@ span{
 
 .fourth_img{
     height: 300px;
-    background-image: url("/image/box4_image.jpg");
+    background-image: url("image/box4_image.jpg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -222,7 +222,7 @@ span{
 
 .five_img{
     height: 300px;
-    background-image: url("/image/box5_image.jpg");
+    background-image: url("image/box5_image.jpg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -230,7 +230,7 @@ span{
 
 .sixth_img{
     height: 300px;
-    background-image: url("/image/box6_image.jpg");
+    background-image: url("image/box6_image.jpg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -238,7 +238,7 @@ span{
 
 .seventh_img{
     height: 300px;
-    background-image: url("/image/box7_image.jpg");
+    background-image: url("image/box7_image.jpg");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -247,7 +247,7 @@ span{
 
 .img_flex{
     display: flex;
-    flex-wrap: wrap; /* allows wrapping to next line */
+    flex-wrap: wrap; 
     justify-content: center;
     gap: 10px;
     margin-bottom: 16px;
